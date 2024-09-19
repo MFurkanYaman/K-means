@@ -4,7 +4,6 @@ import time
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.cluster import KMeans
-from sklearn_extra.cluster import KMedoids  # KMedoids ekleniyor
 from sklearn.metrics import silhouette_score
 
 warnings.filterwarnings("ignore")
@@ -21,42 +20,24 @@ def normalize_data(df):
 
 def find_best_value_kmeans(scaled_data, cluster):
     best_value = -1
-    fastest_time = float('inf') #sonsuz sayı
-    algorithms=["lloyd","elkan"]
-   
-    for algorithm in algorithms:
-        
+    distance_metric= ["euclidean", "manhattan", "cosine"]
+
+    for metric in distance_metric:
         for k in range(2, cluster + 1):
-            start_time=time.time()
-
-            kmeans = KMeans(n_clusters=k, random_state=42, algorithm=algorithm)
+            kmeans = KMeans(n_clusters=k, random_state=42)
             labels = kmeans.fit_predict(scaled_data)
-            value = silhouette_score(scaled_data, labels)
-
-            end_time=time.time()
-
-            total_time=end_time-start_time            
+            value = silhouette_score(scaled_data, labels, metric=metric)
+            #print(f"Metrik: {metric}, k: {k}, Silhouette Skoru: {value}")
 
             if value > best_value:
                 best_value = value
                 best_k = k
                 best_model = kmeans
+                best_metric = metric
 
-            if total_time < fastest_time:
-                fastest_time = total_time
-                fastest_k = k
-                fastest_value = value
-                alg_name=algorithm
-            
-                
-    print(f"En iyi küme sayısı: {best_k}, Silhouette Skoru: {best_value}, Çalışma Süresi: {time_dict[best_k]}")
-    print(f"En hızlı çalışma süresine sahip algoritma {alg_name}, küme sayısı: {fastest_k}, Silhouette Skoru: {fastest_value}, Çalışma Süresi: {fastest_time}")
-    
+    print(f"En iyi küme sayısı: {best_k}, Silhouette Skoru: {best_value}, Mesafe Metrik: {best_metric}")
     return  best_model
-
-
-
-
+    
 def main():
     # Veritabanı bağlantısı
     conn = connect_db("dbKmeans", "localhost", "postgres", "1234", "5432")
@@ -71,10 +52,10 @@ def main():
     # Normalizasyon
     scaled_data = normalize_data(df)
     
-    # Öklid için en uygun küme sayısını bul
-    max_cluster_num = 10
+    # Öklid için en uygun küme 
+    max_cluster_num = 15
     best_model_kmeans = find_best_value_kmeans(scaled_data, max_cluster_num)
-    df["output_euclidean"] = best_model_kmeans.labels_
+    df["output"] = best_model_kmeans.labels_
     
     
     # Sonuçları yazdır
