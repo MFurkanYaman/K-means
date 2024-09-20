@@ -3,11 +3,12 @@ import math
 
 #Yapılacaklar : 
 
-#Centorid kümeleme hatalı düzeltilmeli.
+#Distance çalışıyor.
+#Centorid kümeleme hatalı düzeltildi.
 #Küme kontrol genel döngü eklenecek.
 #Best Score bulunacak.
 #Kod modüler hale dönüştürülecek ve kütüphaneli koda entegre edilicek.
-#Distance çalışıyor.
+
 
 
 
@@ -40,7 +41,7 @@ print(old_dict)
 results = []
 index=0
 
-#Hatalı Düzeltiliyor.
+#Hatalı Düzeltildi.
 for i in range(row_num):
     min_value=float("inf")
     for j in range(centroids_num):
@@ -50,10 +51,10 @@ for i in range(row_num):
             min_value=old_dict[j][i]
             min_key=j
 
-    if min_key not in new_dict:
-        new_dict[min_key]=[]
-    else:
-        new_dict[min_key].append(i)
+        if min_key not in new_dict:
+            new_dict[min_key]=[]
+
+    new_dict[min_key].append(i)
     results.append(f"Index {i}: key {min_key} değeri ({min_value}) daha küçük.")
 
 
