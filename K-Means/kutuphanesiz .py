@@ -96,7 +96,7 @@ while kontrol==True:
 
 #Hata olmalı ?
     for key in clusters:
-        if(sorted(clusters[key])==old_clusters[key]):
+        if(sorted(clusters[key])==sorted(old_clusters[key])):
             kontrol=False
             
     old_clusters=clusters
