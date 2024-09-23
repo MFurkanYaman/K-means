@@ -3,18 +3,34 @@ import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 import numpy as np
 import copy
+import datetime
 import warnings
 
 warnings.filterwarnings("ignore")
 
 
-def connect_db(dbname, host, user, password, port):
+def connect_db(dbname, host, user, password, port,timestamp):
     """Veritabanına bağlantı gerçekleştirir."""
-    return psycopg2.connect(database=dbname, host=host, user=user, password=password, port=port)
+    try:
+        return psycopg2.connect(database=dbname, host=host, user=user, password=password, port=port)
+    
+    except Exception as e:
+        file=open("log.txt","a")
+        file.write(f"{timestamp} - {e}\n")
+        file.close()
+        exit()
+        
 
-def data_from_db(conn, query):
+def data_from_db(conn, query,timestamp):
     """Verilen SQL sorgusuna göre veritabanından verileri çeker ve bir pandas DataFrame'ine dönüştürür."""
-    return pd.read_sql_query(query, conn)
+    try:
+        return pd.read_sql_query(query, conn)
+    
+    except Exception as e:
+        file=open("log1.txt","a")
+        file.write(f"{timestamp} - {e}.\n")
+        file.close()
+        
 
 def normalize_data(df):
     """Verilen veriyi MinMaxScaler kullanarak normalize eder."""
@@ -106,12 +122,22 @@ def kmeans_func(data, centroids, centroids_num):
     return centroids, clusters
 
 def main():
+
+    get_time=datetime.datetime.now()
+    timestamp = get_time.strftime("%d.%m.%Y %H:%M:%S")
+
+    file=open("log.txt","a")
+    file.write(f"{timestamp} - Code executed.\n")
+    file.close()
+
+
+
     # Veritabanı bağlantısı
-    conn = connect_db("dbKmeans", "localhost", "postgres", "1234", "5432")
+    conn = connect_db("dbKmeans", "localhost", "postgres", "1234", "54732",timestamp)
     
     # Verileri al
     query = "SELECT * FROM data;"  
-    df = data_from_db(conn, query)
+    df = data_from_db(conn, query,timestamp)
     
     print("Veri Seti: ")
     print(df)
