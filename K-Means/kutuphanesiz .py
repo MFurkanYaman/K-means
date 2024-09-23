@@ -27,7 +27,7 @@ def data_from_db(conn, query,timestamp):
         return pd.read_sql_query(query, conn)
     
     except Exception as e:
-        file=open("log1.txt","a")
+        file=open("log.txt","a")
         file.write(f"{timestamp} - {e}.\n")
         file.close()
         
