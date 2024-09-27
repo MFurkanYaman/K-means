@@ -1,0 +1,684 @@
+26-09-2024 10:31:21 - INFO - Code executed
+26-09-2024 10:49:49 - INFO - Code executed
+26-09-2024 10:49:49 - ERROR - The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+26-09-2024 10:49:49 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 10:49:49 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 10:49:49 - ERROR - cannot unpack non-iterable NoneType object
+26-09-2024 11:02:25 - INFO - Code executed
+26-09-2024 11:02:25 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 11:02:25 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 11:02:25 - ERROR - cannot unpack non-iterable NoneType object
+26-09-2024 11:03:14 - INFO - Code executed
+26-09-2024 11:03:14 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 11:03:14 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 11:03:14 - ERROR - cannot unpack non-iterable NoneType object
+26-09-2024 11:04:08 - INFO - Code executed
+26-09-2024 11:04:09 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 11:04:09 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 11:04:09 - ERROR - cannot unpack non-iterable NoneType object
+26-09-2024 11:10:04 - INFO - Code executed
+26-09-2024 11:10:04 - ERROR - name 'np' is not defined
+26-09-2024 11:10:04 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 11:10:04 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 11:10:04 - ERROR - cannot unpack non-iterable NoneType object
+26-09-2024 11:11:02 - INFO - Code executed
+26-09-2024 11:15:42 - INFO - Code executed
+26-09-2024 11:17:58 - INFO - Code executed
+26-09-2024 11:22:09 - INFO - Code executed
+26-09-2024 11:22:09 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 11:22:09 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 11:22:09 - ERROR - cannot unpack non-iterable NoneType object
+26-09-2024 11:25:00 - INFO - Code executed
+26-09-2024 15:33:37 - INFO - Code executed
+26-09-2024 15:33:37 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 15:33:37 - ERROR - get_data_from_db() missing 1 required positional argument: 'table_name'
+26-09-2024 15:36:22 - INFO - Kod �al��t�r�ld�.
+26-09-2024 15:36:22 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 15:36:22 - ERROR - relation "deneme_3" already exists
+
+26-09-2024 15:36:23 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 15:36:23 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:23 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:23 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:23 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:23 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:23 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:23 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:23 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:23 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:23 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:23 - ERROR - Execution failed on sql 'SELECT * FROM deneme_3;': current transaction is aborted, commands ignored until end of transaction block
+
+26-09-2024 15:36:47 - INFO - Kod �al��t�r�ld�.
+26-09-2024 15:36:47 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 15:36:47 - ERROR - relation "deneme_3" already exists
+
+26-09-2024 15:36:48 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 15:36:48 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:48 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:48 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:48 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:48 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:48 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:48 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:48 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:48 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:48 - INFO - Veriler deneme_3 tablosuna ba�ar�yla eklendi!
+26-09-2024 15:36:48 - ERROR - Execution failed on sql 'SELECT * FROM deneme_3;': current transaction is aborted, commands ignored until end of transaction block
+
+26-09-2024 16:23:07 - INFO - Code executed
+26-09-2024 16:23:07 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 16:23:07 - ERROR - get_data_from_db() missing 2 required positional arguments: 'conn' and 'table_name'
+26-09-2024 16:24:03 - INFO - Code executed
+26-09-2024 16:24:03 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 16:24:03 - ERROR - get_data_from_db() missing 2 required positional arguments: 'conn' and 'table_name'
+26-09-2024 16:25:14 - INFO - Code executed
+26-09-2024 16:25:14 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 16:25:14 - ERROR - get_data_from_db() missing 2 required positional arguments: 'conn' and 'table_name'
+26-09-2024 16:26:56 - INFO - Code executed
+26-09-2024 16:26:56 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 16:26:56 - ERROR - get_data_from_db() missing 2 required positional arguments: 'conn' and 'table_name'
+26-09-2024 16:42:41 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 16:42:41 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 16:42:41 - ERROR - module 'config' has no attribute 'data_path'
+26-09-2024 16:43:54 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 16:43:54 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 16:43:54 - INFO - Veritaban�ndan veri �ekiliyor: deneme_3
+26-09-2024 16:43:54 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 16:43:54 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 16:43:54 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 16:43:54 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 16:43:54 - ERROR - cannot unpack non-iterable NoneType object
+26-09-2024 16:46:17 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 16:46:17 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 16:46:17 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 16:46:17 - INFO - Veritaban�ndan veri �ekiliyor: deneme_3
+26-09-2024 16:46:17 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 16:46:17 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 16:46:17 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 16:46:17 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 16:46:17 - ERROR - cannot unpack non-iterable NoneType object
+26-09-2024 16:46:42 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 16:46:42 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 16:46:43 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 16:46:43 - INFO - Veritaban�ndan veri �ekiliyor: deneme_3
+26-09-2024 16:46:43 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 16:46:43 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 16:46:43 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 16:46:43 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 16:46:43 - ERROR - cannot unpack non-iterable NoneType object
+26-09-2024 16:49:20 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 16:49:20 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 16:49:20 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 16:49:20 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 16:49:20 - ERROR - Veri �ekme hatas�: Execution failed on sql 'SELECT * FROM deneme_;': relation "deneme_" does not exist
+LINE 1: SELECT * FROM deneme_;
+                      ^
+
+26-09-2024 16:49:20 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 16:49:20 - ERROR - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+26-09-2024 16:49:20 - ERROR - cannot unpack non-iterable NoneType object
+26-09-2024 16:54:53 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 16:55:04 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 16:55:04 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 16:55:04 - ERROR - relation "deneme_" already exists
+
+26-09-2024 16:55:04 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 16:55:04 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:04 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:04 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:04 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:04 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:04 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:04 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:04 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:04 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:04 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:04 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 16:55:04 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 16:55:04 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 16:55:04 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 16:55:04 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 16:55:29 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 16:55:29 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 16:55:29 - INFO - deneme_ isimli tablo ba�ar�yla olu�turuldu.
+26-09-2024 16:55:29 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 16:55:29 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:29 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:29 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:29 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:29 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:29 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:29 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:29 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:29 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:29 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:55:29 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 16:55:29 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 16:55:29 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 16:55:29 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 16:55:29 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 16:58:00 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 16:58:00 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 16:58:00 - ERROR - relation "deneme_" already exists
+
+26-09-2024 16:58:00 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 16:58:00 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:58:00 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:58:00 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:58:00 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:58:00 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:58:00 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:58:00 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:58:00 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:58:00 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:58:00 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 16:58:00 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 16:58:00 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 16:58:00 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 16:58:00 - INFO - Tablodaki t�m veriler say�sal ve bo� de�er yok.
+26-09-2024 17:00:23 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:00:23 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:00:23 - ERROR - relation "deneme_" already exists
+
+26-09-2024 17:00:23 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:00:23 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:23 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:23 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:23 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:23 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:23 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:23 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:23 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:23 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:23 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:23 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:00:23 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:00:23 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:00:23 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 17:00:23 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 17:00:31 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:00:31 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:00:31 - ERROR - relation "deneme_" already exists
+
+26-09-2024 17:00:31 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:00:31 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:31 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:31 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:31 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:31 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:31 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:31 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:31 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:31 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:31 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:00:31 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:00:31 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:00:31 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:00:31 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 17:00:31 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 17:01:28 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:01:28 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:01:28 - ERROR - relation "deneme_" already exists
+
+26-09-2024 17:01:28 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:01:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:01:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:01:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:01:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:01:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:01:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:01:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:01:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:01:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:01:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:01:28 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:01:28 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:01:28 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:01:28 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 17:01:28 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 17:02:25 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:02:25 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:02:25 - ERROR - relation "deneme_" already exists
+
+26-09-2024 17:02:25 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:02:25 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:02:25 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:02:25 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:02:25 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:02:25 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:02:25 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:02:25 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:02:25 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:02:25 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:02:25 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:02:25 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:02:25 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:02:25 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:02:25 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 17:02:25 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 17:03:07 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:03:07 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:03:07 - ERROR - relation "deneme_" already exists
+
+26-09-2024 17:03:07 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:03:07 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:07 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:07 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:07 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:07 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:07 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:07 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:07 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:07 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:07 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:07 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:03:07 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:03:07 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:03:08 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 17:03:08 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 17:03:36 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:03:36 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:03:36 - ERROR - relation "deneme_" already exists
+
+26-09-2024 17:03:36 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:03:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:36 - INFO - Tablodan veri �ekmeye �al���l�yor: deneme_
+26-09-2024 17:03:36 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:03:36 - ERROR - Veri �ekme hatas�: Execution failed on sql 'SELECT * FROM deneme_;': current transaction is aborted, commands ignored until end of transaction block
+
+26-09-2024 17:03:36 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 17:03:44 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:03:44 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:03:44 - ERROR - relation "deneme_" already exists
+
+26-09-2024 17:03:45 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:03:45 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:45 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:45 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:45 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:45 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:45 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:45 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:45 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:45 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:45 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:03:45 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:03:45 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:03:45 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:03:45 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 17:03:45 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 17:04:35 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:04:35 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:04:35 - ERROR - relation "deneme_" already exists
+
+26-09-2024 17:04:35 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:04:35 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:04:35 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:04:35 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:04:35 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:04:35 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:04:35 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:04:35 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:04:35 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:04:35 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:04:35 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:04:35 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:04:35 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:04:35 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:04:35 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 17:04:35 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 17:05:22 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:05:22 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:05:22 - ERROR - relation "deneme_" already exists
+
+26-09-2024 17:05:22 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:05:22 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:05:22 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:05:22 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:05:22 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:05:22 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:05:22 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:05:22 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:05:22 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:05:22 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:05:22 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:05:22 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:05:22 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:05:22 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:05:22 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 17:05:22 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 17:06:02 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:06:03 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:06:03 - ERROR - relation "deneme_" already exists
+
+26-09-2024 17:06:03 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:06:03 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:03 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:03 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:03 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:03 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:03 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:03 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:03 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:03 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:03 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:03 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:06:03 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:06:03 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:06:03 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 17:06:03 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 17:06:36 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:06:36 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:06:36 - ERROR - relation "deneme_" already exists
+
+26-09-2024 17:06:36 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:06:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:36 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:06:36 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:06:36 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:06:36 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 17:06:36 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 17:06:58 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:06:58 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:06:58 - ERROR - relation "deneme_" already exists
+
+26-09-2024 17:06:58 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:06:58 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:58 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:58 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:58 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:58 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:58 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:58 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:58 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:58 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:58 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:06:58 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:06:58 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:06:58 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:06:58 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 17:06:58 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 17:07:28 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:07:28 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:07:28 - ERROR - relation "deneme_" already exists
+
+26-09-2024 17:07:28 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:07:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:28 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:28 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:07:28 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:07:28 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:07:28 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 17:07:28 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 17:07:43 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:07:43 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:07:43 - ERROR - relation "deneme_" already exists
+
+26-09-2024 17:07:43 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:07:43 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:43 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:43 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:43 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:43 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:43 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:43 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:43 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:43 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:43 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:07:43 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:07:43 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:07:43 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:07:43 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 17:07:43 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 17:09:15 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:09:15 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:09:15 - ERROR - relation "deneme_" already exists
+
+26-09-2024 17:09:15 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:09:15 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:09:15 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:09:15 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:09:15 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:09:15 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:09:15 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:09:15 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:09:15 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:09:15 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:09:15 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:09:15 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:09:15 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:09:15 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:09:15 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 17:09:15 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 17:11:36 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:11:36 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:11:36 - ERROR - type "numer�c" does not exist
+LINE 1: CREATE TABLE deneme_ (price1 NUMER�C, price2 NUMER�C, price3...
+                                     ^
+
+26-09-2024 17:11:36 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:11:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:36 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:36 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:11:36 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:11:36 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:11:36 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 17:11:36 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 17:11:52 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:11:52 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:11:52 - ERROR - relation "deneme_" already exists
+
+26-09-2024 17:11:52 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:11:52 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:52 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:52 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:52 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:52 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:52 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:52 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:52 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:52 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:52 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:11:52 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:11:52 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:11:52 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:11:52 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 17:11:52 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 17:12:19 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:12:19 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:12:19 - ERROR - type "numer�c" does not exist
+LINE 1: CREATE TABLE deneme_ (price1 NUMER�C, price2 NUMER�C, price3...
+                                     ^
+
+26-09-2024 17:12:19 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:12:19 - ERROR - relation "deneme_" does not exist
+LINE 1: INSERT INTO deneme_ (price1, price2, price3) VALUES ('8', '3...
+                    ^
+
+26-09-2024 17:12:19 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:12:19 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:12:19 - ERROR - Veri �ekme hatas�: Execution failed on sql 'SELECT * FROM deneme_;': relation "deneme_" does not exist
+LINE 1: SELECT * FROM deneme_;
+                      ^
+
+26-09-2024 17:12:19 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 17:12:46 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:12:46 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:12:46 - INFO - deneme_ isimli tablo ba�ar�yla olu�turuldu.
+26-09-2024 17:12:46 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:12:46 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:12:46 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:12:46 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:12:46 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:12:46 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:12:46 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:12:46 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:12:46 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:12:46 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:12:46 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:12:46 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:12:46 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:12:46 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:12:46 - INFO - Tablodaki t�m veriler say�sal ve bo� de�er yok.
+26-09-2024 17:13:34 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:13:34 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:13:34 - INFO - deneme_ isimli tablo ba�ar�yla olu�turuldu.
+26-09-2024 17:13:34 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:13:34 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:13:34 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:13:34 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:13:34 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:13:34 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:13:34 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:13:34 - ERROR - invalid input syntax for type integer: "A"
+LINE 1: ...NTO deneme_ (price1, price2, price3) VALUES ('3', 'A', '3');
+                                                             ^
+
+26-09-2024 17:13:34 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:13:34 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:13:34 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:13:34 - INFO - Tablodaki t�m veriler say�sal ve bo� de�er yok.
+26-09-2024 17:13:34 - ERROR - Number of labels is 6. Valid values are 2 to n_samples - 1 (inclusive)
+26-09-2024 17:13:34 - ERROR - cannot unpack non-iterable NoneType object
+26-09-2024 17:14:29 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:14:29 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:14:29 - ERROR - relation "deneme_" already exists
+
+26-09-2024 17:14:29 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:14:29 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:14:29 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:14:29 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:14:29 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:14:29 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:14:29 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:14:29 - ERROR - invalid input syntax for type integer: " "
+LINE 1: ...NTO deneme_ (price1, price2, price3) VALUES ('3', ' ', '3');
+                                                             ^
+
+26-09-2024 17:14:29 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:14:29 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:14:29 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:14:29 - INFO - Tablodaki t�m veriler say�sal ve bo� de�er yok.
+26-09-2024 17:15:03 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:15:03 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:15:03 - INFO - deneme_ isimli tablo ba�ar�yla olu�turuldu.
+26-09-2024 17:15:03 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:15:03 - ERROR - invalid input syntax for type integer: " "
+LINE 1: ...NTO deneme_ (price1, price2, price3) VALUES ('8', ' ', '3');
+                                                             ^
+
+26-09-2024 17:15:03 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:15:03 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:15:03 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:15:03 - ERROR - Tablodaki veriler say�sal de�il veya bo� de�erler var.
+26-09-2024 17:15:03 - ERROR - deneme_ tablosundan veri al�namad�.
+26-09-2024 17:16:14 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:16:14 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:16:14 - INFO - deneme_ isimli tablo ba�ar�yla olu�turuldu.
+26-09-2024 17:16:14 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:16:14 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:14 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:14 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:14 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:14 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:14 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:14 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:14 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:14 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:14 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:14 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:16:14 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:16:14 - INFO - Veriler �ekildi, kontrol ediliyor...
+26-09-2024 17:16:55 - INFO - Kod �al��t�r�l�yor.
+26-09-2024 17:16:55 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:16:55 - ERROR - relation "deneme_" already exists
+
+26-09-2024 17:16:55 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:16:55 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:55 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:55 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:55 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:55 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:55 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:55 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:55 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:55 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:55 - INFO - Veriler deneme_ tablosuna ba�ar�yla eklendi!
+26-09-2024 17:16:55 - INFO - Veri taban�na ba�lan�ld�.
+26-09-2024 17:16:55 - INFO - Veritaban�ndan veri �ekiliyor: deneme_
+26-09-2024 17:16:55 - INFO - Veriler �ekildi, kontrol ediliyor...
