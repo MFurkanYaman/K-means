@@ -1,40 +1,38 @@
-import kmeans_with_library
+from flask import Flask, request, jsonify
 import pandas as pd
 import os
+import kmeans_with_library
 import db_operations
 import logging
 
-"""
-Bu kod, bir CSV dosyasından verileri okuyarak bir PostgreSQL veritabanında tablo oluşturur, verileri ekler ve KMeans algoritmasını çalıştırır. 
+app = Flask(__name__)
 
-1. Gerekli modüller (kmeans_with_library, pandas, os, db_operations, logging) içe aktarılır.
-2. Okunacak CSV dosyasının yolu 'data_path' değişkeninde tanımlanır.
-3. main() fonksiyonu, kodun yürütüldüğü ana bölümdür:
-   - Loglama başlatılır.
-   - CSV dosyası pandas DataFrame'e yüklenir.
-   - CSV dosyasının adı, veritabanındaki tablo adı olarak belirlenir.
-   - Veritabanına bağlantı sağlanır.
-   - Bağlantı başarılıysa:
-     - Veritabanında uygun bir tablo oluşturulur.
-     - DataFrame'deki veriler bu tabloya eklenir.
-     - KMeans algoritması çalıştırılır.
-   - Bağlantı başarısız olursa hata günlüğüne kaydedilir.
-"""
+# Loglama yapılandırması
+db_operations.setup_logging()
 
-# Veri yolunu tanımla
-data_path = "data/deneme_.csv"
+# Veri yolu ve tablo adı oluştur
+UPLOAD_FOLDER = 'data'
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
-def main():
-
-    logging.info("Kod çalıştırılıyor.")
-
-    db_operations.setup_logging()
-
-    # Veriyi oku
-    df = pd.read_csv(data_path)
+# Dosya yükleme yolu
+@app.route('/upload', methods=['POST'])
+def upload_file():
     
+    if 'file' not in request.files:
+        return jsonify({"error": "No file part"}), 400
+
+    file = request.files['file']
+
+   
+    # Dosya kaydedilmesi
+    file_path = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
+    file.save(file_path)
+
+    # CSV dosyasını pandas DataFrame'e yükle
+    df = pd.read_csv(file_path)
+
     # Tablo ismini belirle
-    table_name = os.path.splitext(os.path.basename(data_path))[0]
+    table_name = os.path.splitext(file.filename)[0]
 
     # Veritabanı bağlantısını kur
     conn = db_operations.connect_db()
@@ -48,8 +46,12 @@ def main():
 
         # KMeans işlemlerini çalıştır
         kmeans_with_library.main(table_name)
+
+        return jsonify({"message": "File processed and KMeans executed successfully"}), 200
     else:
         logging.error("Veritabanına bağlanılamadı.")
+        return jsonify({"error": "Failed to connect to the database"}), 500
+  
 
 if __name__ == "__main__":
-    main()
+    app.run(debug=True)
